@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">QuizGame</string>
+    <string name="question_oceans">Всего океанов 6?</string>
+    <string name="question_mideast">Между Ираком и Ираном есть страна?</string>
+    <string name="question_africa">Нил самая  длинная река мира?</string>
+    <string name="question_americas">В США 51 штат?</string>
+    <string name="question_asia">На площади Тян Ань Мэнь ничего не происходило?</string>
+    <string name="question_world">Всего 5 материков?</string>
+    <string name="true_button">Правда</string>
+    <string name="false_button">Ложь</string>
+    <string name="correct_toast">Правильно!</string>
+    <string name="incorrect_toast">Неправильно!</string>
+    <string name="next_button">Следующий +</string>
+    <string name="previous_button">- Предыдущий</string>
+    <string name="isAnswered_toast">Вопрос уже был отвечен!</string>
+    <string name="cheat_toast">Подсказки для плохих!!</string>
+    <string name="cheat_button">Подсказка</string>
+    <string name="back_button">Вернуться</string>
+    <string name="cheat_textview">ХУЙ</string>
+    <string name="show_cheat">Показать</string>
+    <string name="score_textview">Score = 0</string>
+</resources>
